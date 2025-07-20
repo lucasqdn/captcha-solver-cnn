@@ -1,2 +1,3 @@
 # captcha-solver
-A machine learning model used to read captcha's text in order to solve them
+
+A CNN machine learning model that reads and solve captcha
